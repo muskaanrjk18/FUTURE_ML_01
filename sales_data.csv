@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Segment,City,Region,Category,Sub_Category,Product_Name,Quantity,Sales,Discount,Profit
+ORD-0001,2025-04-25,2025-04-27,Standard Class,CUST-044,Home Office,Los Angeles,West,Office Supplies,Art,Marker Set,1,9.6,0.2,3.11
+ORD-0002,2025-04-22,2025-04-24,Standard Class,CUST-036,Consumer,Los Angeles,West,Furniture,Bookcases,Bookshelf,7,1260.0,0.0,680.61
+ORD-0003,2025-01-04,2025-01-06,Same Day,CUST-022,Corporate,Denver,Central,Furniture,Furnishings,Desk Lamp,4,126.0,0.1,35.78
+ORD-0004,2025-02-19,2025-02-22,First Class,CUST-039,Corporate,Houston,Central,Technology,Accessories,Keyboard,6,270.0,0.0,140.24
+ORD-0005,2025-05-31,2025-06-06,First Class,CUST-037,Consumer,Phoenix,West,Technology,Phones,Smartphone,2,1258.2,0.1,592.75
+ORD-0006,2025-05-29,2025-05-30,Second Class,CUST-007,Corporate,Los Angeles,West,Furniture,Furnishings,Desk Lamp,1,28.0,0.2,9.62
+ORD-0007,2025-04-18,2025-04-24,First Class,CUST-045,Home Office,Phoenix,West,Furniture,Tables,Study Table,6,1320.0,0.0,564.75
+ORD-0008,2025-03-25,2025-03-29,Same Day,CUST-018,Home Office,Los Angeles,West,Office Supplies,Art,Marker Set,3,30.6,0.15,5.74
+ORD-0009,2025-01-17,2025-01-20,Same Day,CUST-018,Consumer,Houston,Central,Furniture,Furnishings,Desk Lamp,6,210.0,0.0,99.63
+ORD-0010,2025-08-23,2025-08-25,First Class,CUST-009,Consumer,Boston,East,Furniture,Chairs,Office Chair,4,480.0,0.2,111.15
+ORD-0011,2025-04-23,2025-04-25,Same Day,CUST-006,Consumer,Seattle,West,Furniture,Furnishings,Desk Lamp,7,208.25,0.15,65.71
+ORD-0012,2025-02-02,2025-02-06,Same Day,CUST-039,Corporate,Chicago,Central,Technology,Accessories,Wireless Mouse,3,60.0,0.2,15.8
+ORD-0013,2025-10-02,2025-10-05,First Class,CUST-008,Corporate,Seattle,West,Furniture,Bookcases,Bookshelf,1,144.0,0.2,20.19
+ORD-0014,2025-05-15,2025-05-20,Second Class,CUST-033,Consumer,Chicago,Central,Office Supplies,Binders,Ring Binder,8,40.0,0.0,9.41
+ORD-0015,2025-03-24,2025-03-29,Standard Class,CUST-039,Corporate,Seattle,West,Office Supplies,Art,Marker Set,4,48.0,0.0,20.48
+ORD-0016,2025-06-07,2025-06-09,Standard Class,CUST-016,Home Office,New York,East,Office Supplies,Storage,Storage Box,2,34.2,0.05,7.56
+ORD-0017,2025-09-30,2025-10-02,Second Class,CUST-043,Corporate,Los Angeles,West,Technology,Accessories,Wireless Mouse,8,200.0,0.0,45.45
+ORD-0018,2025-08-05,2025-08-07,Second Class,CUST-020,Corporate,Chicago,Central,Furniture,Bookcases,Bookshelf,5,765.0,0.15,100.89
+ORD-0019,2025-05-07,2025-05-09,Standard Class,CUST-022,Consumer,Boston,East,Office Supplies,Art,Marker Set,8,81.6,0.15,24.1
+ORD-0020,2025-01-31,2025-02-02,Standard Class,CUST-003,Corporate,Houston,Central,Technology,Accessories,Headphones,4,320.0,0.0,168.5
+ORD-0021,2025-10-04,2025-10-06,Same Day,CUST-016,Corporate,Houston,Central,Technology,Accessories,Wireless Mouse,5,100.0,0.2,23.73
+ORD-0022,2025-07-01,2025-07-05,Same Day,CUST-030,Home Office,Houston,Central,Office Supplies,Binders,Ring Binder,2,10.0,0.0,3.33
+ORD-0023,2025-02-25,2025-02-27,Second Class,CUST-013,Home Office,Los Angeles,West,Technology,Phones,Smartphone,1,629.1,0.1,146.57
+ORD-0024,2025-05-08,2025-05-09,Same Day,CUST-036,Consumer,Chicago,Central,Office Supplies,Storage,Storage Box,7,126.0,0.0,57.72
+ORD-0025,2025-09-06,2025-09-10,Second Class,CUST-026,Consumer,New York,East,Technology,Phones,Smartphone,2,1398.0,0.0,692.17
+ORD-0026,2025-08-21,2025-08-24,Same Day,CUST-045,Home Office,Denver,Central,Technology,Accessories,Keyboard,1,40.5,0.1,16.31
+ORD-0027,2025-01-30,2025-02-04,Standard Class,CUST-021,Consumer,Phoenix,West,Furniture,Bookcases,Bookshelf,3,540.0,0.0,244.13
+ORD-0028,2025-02-11,2025-02-13,Standard Class,CUST-039,Consumer,Phoenix,West,Technology,Phones,Smartphone,3,2097.0,0.0,488.48
+ORD-0029,2025-10-19,2025-10-21,Standard Class,CUST-040,Consumer,Houston,Central,Office Supplies,Art,Marker Set,7,84.0,0.0,20.1
+ORD-0030,2025-06-10,2025-06-12,First Class,CUST-026,Consumer,Boston,East,Office Supplies,Binders,Ring Binder,5,25.0,0.0,8.22
+ORD-0031,2025-02-07,2025-02-08,Same Day,CUST-040,Home Office,Seattle,West,Office Supplies,Art,Marker Set,8,91.2,0.05,18.57
+ORD-0032,2025-06-28,2025-06-29,Second Class,CUST-024,Corporate,Los Angeles,West,Technology,Accessories,Wireless Mouse,4,85.0,0.15,31.25
+ORD-0033,2025-09-28,2025-09-29,First Class,CUST-043,Consumer,Phoenix,West,Technology,Accessories,Keyboard,5,191.25,0.15,16.95
+ORD-0034,2025-03-21,2025-03-24,First Class,CUST-039,Consumer,Seattle,West,Technology,Accessories,Keyboard,2,90.0,0.0,27.45
+ORD-0035,2025-05-16,2025-05-21,Same Day,CUST-017,Consumer,Boston,East,Furniture,Furnishings,Desk Lamp,4,112.0,0.2,19.7
+ORD-0036,2025-03-08,2025-03-14,First Class,CUST-011,Home Office,Denver,Central,Technology,Accessories,Wireless Mouse,5,125.0,0.0,68.6
+ORD-0037,2025-03-18,2025-03-23,Standard Class,CUST-024,Home Office,Denver,Central,Office Supplies,Storage,Storage Box,1,18.0,0.0,9.45
+ORD-0038,2025-07-06,2025-07-07,First Class,CUST-014,Home Office,Chicago,Central,Furniture,Bookcases,Bookshelf,7,1260.0,0.0,675.61
+ORD-0039,2025-07-28,2025-08-02,Second Class,CUST-016,Consumer,Los Angeles,West,Furniture,Chairs,Office Chair,6,765.0,0.15,97.41
+ORD-0040,2025-06-20,2025-06-24,Second Class,CUST-018,Consumer,Denver,Central,Technology,Accessories,Keyboard,1,45.0,0.0,13.81
+ORD-0041,2025-04-24,2025-04-26,Same Day,CUST-023,Corporate,Los Angeles,West,Furniture,Furnishings,Desk Lamp,7,245.0,0.0,65.33
+ORD-0042,2025-06-18,2025-06-21,Standard Class,CUST-018,Corporate,Houston,Central,Furniture,Chairs,Office Chair,1,120.0,0.2,42.94
+ORD-0043,2025-05-14,2025-05-16,First Class,CUST-003,Consumer,Denver,Central,Office Supplies,Art,Marker Set,6,72.0,0.0,36.86
+ORD-0044,2025-08-12,2025-08-17,Standard Class,CUST-025,Home Office,Denver,Central,Technology,Accessories,Headphones,6,384.0,0.2,43.43
+ORD-0045,2025-09-24,2025-09-29,Second Class,CUST-024,Corporate,Seattle,West,Furniture,Chairs,Office Chair,1,120.0,0.2,30.92
+ORD-0046,2025-06-03,2025-06-08,First Class,CUST-043,Corporate,Boston,East,Technology,Accessories,Wireless Mouse,6,120.0,0.2,10.52
+ORD-0047,2025-08-04,2025-08-10,Same Day,CUST-044,Home Office,Denver,Central,Office Supplies,Paper,Printer Paper,5,34.0,0.15,14.32
+ORD-0048,2025-06-05,2025-06-08,Second Class,CUST-028,Home Office,Seattle,West,Technology,Accessories,Keyboard,7,267.75,0.15,39.33
+ORD-0049,2025-04-20,2025-04-25,Same Day,CUST-011,Home Office,Boston,East,Technology,Accessories,Headphones,8,576.0,0.1,194.62
+ORD-0050,2025-05-01,2025-05-07,First Class,CUST-015,Consumer,Seattle,West,Technology,Accessories,Wireless Mouse,6,150.0,0.0,41.99
+ORD-0051,2025-02-07,2025-02-11,Same Day,CUST-041,Home Office,New York,East,Technology,Accessories,Keyboard,1,45.0,0.0,10.14
+ORD-0052,2025-01-03,2025-01-04,Same Day,CUST-015,Consumer,Denver,Central,Furniture,Chairs,Office Chair,8,1080.0,0.1,443.38
+ORD-0053,2025-03-04,2025-03-08,Second Class,CUST-030,Home Office,Phoenix,West,Furniture,Furnishings,Desk Lamp,1,29.75,0.15,11.12
+ORD-0054,2025-09-16,2025-09-20,Same Day,CUST-011,Home Office,Boston,East,Furniture,Bookcases,Bookshelf,8,1224.0,0.15,188.71
+ORD-0055,2025-05-22,2025-05-27,Same Day,CUST-041,Consumer,Phoenix,West,Office Supplies,Storage,Storage Box,5,90.0,0.0,24.56
+ORD-0056,2025-05-20,2025-05-23,First Class,CUST-035,Consumer,Phoenix,West,Furniture,Tables,Study Table,2,352.0,0.2,112.51
+ORD-0057,2025-04-20,2025-04-21,Same Day,CUST-027,Corporate,Chicago,Central,Technology,Accessories,Keyboard,4,162.0,0.1,39.78
+ORD-0058,2025-08-04,2025-08-08,Standard Class,CUST-037,Corporate,Phoenix,West,Furniture,Bookcases,Bookshelf,7,1260.0,0.0,607.0
+ORD-0059,2025-08-03,2025-08-08,Second Class,CUST-032,Consumer,New York,East,Office Supplies,Storage,Storage Box,6,102.6,0.05,27.15
+ORD-0060,2025-07-27,2025-08-02,Second Class,CUST-030,Consumer,Denver,Central,Furniture,Tables,Study Table,8,1760.0,0.0,742.15
+ORD-0061,2025-01-14,2025-01-15,Same Day,CUST-009,Corporate,New York,East,Technology,Accessories,Headphones,7,476.0,0.15,119.7
+ORD-0062,2025-08-21,2025-08-24,First Class,CUST-025,Corporate,New York,East,Technology,Accessories,Keyboard,5,202.5,0.1,76.94
+ORD-0063,2025-10-04,2025-10-05,First Class,CUST-015,Home Office,Seattle,West,Office Supplies,Binders,Ring Binder,2,9.0,0.1,4.44
+ORD-0064,2025-01-11,2025-01-16,Second Class,CUST-016,Consumer,New York,East,Technology,Accessories,Wireless Mouse,1,25.0,0.0,12.11
+ORD-0065,2025-07-08,2025-07-10,Standard Class,CUST-011,Corporate,Los Angeles,West,Office Supplies,Storage,Storage Box,4,64.8,0.1,15.78
+ORD-0066,2025-07-12,2025-07-16,Second Class,CUST-005,Home Office,New York,East,Technology,Accessories,Wireless Mouse,5,106.25,0.15,22.06
+ORD-0067,2025-03-03,2025-03-08,Standard Class,CUST-023,Home Office,Houston,Central,Furniture,Furnishings,Desk Lamp,2,56.0,0.2,6.66
+ORD-0068,2025-01-07,2025-01-11,Same Day,CUST-007,Corporate,Boston,East,Office Supplies,Binders,Ring Binder,2,8.5,0.15,1.86
+ORD-0069,2025-09-25,2025-10-01,First Class,CUST-040,Home Office,Phoenix,West,Office Supplies,Paper,Printer Paper,3,21.6,0.1,9.4
+ORD-0070,2025-06-15,2025-06-17,Standard Class,CUST-018,Corporate,Phoenix,West,Office Supplies,Storage,Storage Box,7,100.8,0.2,19.46
+ORD-0071,2025-06-16,2025-06-18,Same Day,CUST-014,Corporate,Phoenix,West,Furniture,Chairs,Office Chair,7,997.5,0.05,515.06
+ORD-0072,2025-05-22,2025-05-27,Standard Class,CUST-034,Consumer,Boston,East,Furniture,Tables,Study Table,5,935.0,0.15,185.47
+ORD-0073,2025-05-04,2025-05-10,Same Day,CUST-042,Home Office,Houston,Central,Technology,Accessories,Wireless Mouse,7,157.5,0.1,46.69
+ORD-0074,2025-07-27,2025-08-02,Second Class,CUST-020,Home Office,Phoenix,West,Office Supplies,Storage,Storage Box,1,18.0,0.0,8.15
+ORD-0075,2025-08-06,2025-08-12,First Class,CUST-023,Home Office,Boston,East,Technology,Accessories,Headphones,8,544.0,0.15,143.87
+ORD-0076,2025-04-09,2025-04-12,Standard Class,CUST-035,Home Office,Seattle,West,Office Supplies,Storage,Storage Box,5,85.5,0.05,38.15
+ORD-0077,2025-09-26,2025-10-01,First Class,CUST-007,Consumer,Houston,Central,Technology,Accessories,Keyboard,4,144.0,0.2,34.24
+ORD-0078,2025-10-01,2025-10-03,First Class,CUST-003,Consumer,Houston,Central,Furniture,Tables,Study Table,6,1320.0,0.0,594.33
+ORD-0079,2025-09-09,2025-09-10,Standard Class,CUST-037,Corporate,Seattle,West,Furniture,Bookcases,Bookshelf,3,432.0,0.2,34.24
+ORD-0080,2025-01-27,2025-01-30,Same Day,CUST-008,Consumer,Phoenix,West,Office Supplies,Storage,Storage Box,8,136.8,0.05,63.24
+ORD-0081,2025-01-28,2025-01-30,Second Class,CUST-037,Corporate,Phoenix,West,Office Supplies,Binders,Ring Binder,2,8.5,0.15,1.92
+ORD-0082,2025-04-26,2025-05-01,Same Day,CUST-029,Corporate,Houston,Central,Technology,Accessories,Wireless Mouse,2,42.5,0.15,7.39
+ORD-0083,2025-02-20,2025-02-22,Second Class,CUST-017,Home Office,Denver,Central,Furniture,Tables,Study Table,5,935.0,0.15,214.57
+ORD-0084,2025-03-22,2025-03-23,Same Day,CUST-029,Home Office,Chicago,Central,Technology,Accessories,Wireless Mouse,4,100.0,0.0,36.78
+ORD-0085,2025-05-25,2025-05-31,Same Day,CUST-005,Home Office,Phoenix,West,Technology,Accessories,Headphones,5,400.0,0.0,189.45
+ORD-0086,2025-04-26,2025-05-02,Second Class,CUST-018,Consumer,Seattle,West,Furniture,Chairs,Office Chair,4,540.0,0.1,247.27
+ORD-0087,2025-10-19,2025-10-22,Same Day,CUST-008,Corporate,New York,East,Technology,Accessories,Wireless Mouse,3,71.25,0.05,22.77
+ORD-0088,2025-09-10,2025-09-14,Standard Class,CUST-039,Consumer,Seattle,West,Furniture,Furnishings,Desk Lamp,7,232.75,0.05,82.04
+ORD-0089,2025-10-22,2025-10-27,Standard Class,CUST-044,Corporate,Boston,East,Office Supplies,Binders,Ring Binder,5,25.0,0.0,13.0
+ORD-0090,2025-08-15,2025-08-18,Second Class,CUST-038,Corporate,New York,East,Technology,Accessories,Headphones,3,216.0,0.1,66.9
+ORD-0091,2025-06-20,2025-06-23,Standard Class,CUST-011,Corporate,Phoenix,West,Office Supplies,Art,Marker Set,2,21.6,0.1,8.04
+ORD-0092,2025-10-09,2025-10-10,Same Day,CUST-006,Corporate,Phoenix,West,Office Supplies,Binders,Ring Binder,5,20.0,0.2,0.95
+ORD-0093,2025-01-01,2025-01-07,Same Day,CUST-027,Consumer,Boston,East,Furniture,Tables,Study Table,2,396.0,0.1,72.41
+ORD-0094,2025-01-27,2025-01-29,First Class,CUST-036,Consumer,Boston,East,Furniture,Chairs,Office Chair,8,960.0,0.2,244.95
+ORD-0095,2025-05-03,2025-05-09,Second Class,CUST-020,Home Office,Phoenix,West,Furniture,Tables,Study Table,8,1760.0,0.0,951.23
+ORD-0096,2025-02-28,2025-03-04,Standard Class,CUST-042,Consumer,Denver,Central,Technology,Phones,Smartphone,2,1398.0,0.0,311.13
+ORD-0097,2025-08-30,2025-09-01,Same Day,CUST-036,Consumer,Seattle,West,Office Supplies,Storage,Storage Box,5,81.0,0.1,15.71
+ORD-0098,2025-08-01,2025-08-04,First Class,CUST-001,Corporate,Houston,Central,Office Supplies,Binders,Ring Binder,3,15.0,0.0,6.88
+ORD-0099,2025-09-05,2025-09-08,First Class,CUST-036,Home Office,Seattle,West,Furniture,Furnishings,Desk Lamp,8,280.0,0.0,112.74
+ORD-0100,2025-05-03,2025-05-08,Same Day,CUST-015,Corporate,Phoenix,West,Office Supplies,Binders,Ring Binder,6,30.0,0.0,6.79
+ORD-0101,2025-07-15,2025-07-19,Second Class,CUST-032,Consumer,Boston,East,Technology,Phones,Smartphone,8,4473.6,0.2,271.59
+ORD-0102,2025-08-22,2025-08-23,Second Class,CUST-027,Home Office,Boston,East,Technology,Accessories,Keyboard,2,81.0,0.1,37.54
+ORD-0103,2025-07-23,2025-07-29,Standard Class,CUST-022,Home Office,Los Angeles,West,Technology,Accessories,Keyboard,8,342.0,0.05,139.78
+ORD-0104,2025-09-07,2025-09-12,Standard Class,CUST-040,Consumer,Denver,Central,Furniture,Bookcases,Bookshelf,6,864.0,0.2,121.85
+ORD-0105,2025-02-20,2025-02-26,Standard Class,CUST-029,Consumer,Seattle,West,Furniture,Chairs,Office Chair,4,480.0,0.2,192.1
+ORD-0106,2025-01-29,2025-02-01,First Class,CUST-024,Corporate,Seattle,West,Furniture,Furnishings,Desk Lamp,1,35.0,0.0,15.5
+ORD-0107,2025-04-03,2025-04-05,Second Class,CUST-006,Home Office,Houston,Central,Technology,Accessories,Keyboard,7,267.75,0.15,55.13
+ORD-0108,2025-08-25,2025-08-31,First Class,CUST-030,Corporate,Houston,Central,Office Supplies,Binders,Ring Binder,8,34.0,0.15,14.11
+ORD-0109,2025-03-22,2025-03-23,Same Day,CUST-023,Home Office,New York,East,Office Supplies,Art,Marker Set,8,91.2,0.05,26.53
+ORD-0110,2025-04-12,2025-04-16,Same Day,CUST-007,Consumer,Denver,Central,Furniture,Tables,Study Table,5,990.0,0.1,188.15
+ORD-0111,2025-07-22,2025-07-25,Standard Class,CUST-037,Home Office,Boston,East,Office Supplies,Binders,Ring Binder,5,20.0,0.2,6.31
+ORD-0112,2025-04-28,2025-05-03,First Class,CUST-015,Home Office,New York,East,Furniture,Furnishings,Desk Lamp,8,266.0,0.05,68.32
+ORD-0113,2025-01-21,2025-01-24,Same Day,CUST-003,Home Office,Seattle,West,Furniture,Chairs,Office Chair,3,360.0,0.2,143.07
+ORD-0114,2025-08-01,2025-08-03,Second Class,CUST-009,Home Office,Chicago,Central,Office Supplies,Paper,Printer Paper,2,15.2,0.05,6.27
+ORD-0115,2025-09-04,2025-09-07,First Class,CUST-008,Corporate,Seattle,West,Office Supplies,Paper,Printer Paper,3,22.8,0.05,4.76
+ORD-0116,2025-07-23,2025-07-28,First Class,CUST-006,Corporate,Chicago,Central,Technology,Accessories,Wireless Mouse,4,80.0,0.2,11.1
+ORD-0117,2025-05-15,2025-05-20,Same Day,CUST-041,Corporate,Seattle,West,Technology,Phones,Smartphone,2,1258.2,0.1,459.06
+ORD-0118,2025-10-15,2025-10-18,Second Class,CUST-042,Consumer,Houston,Central,Technology,Accessories,Wireless Mouse,8,200.0,0.0,69.11
+ORD-0119,2025-03-13,2025-03-14,Standard Class,CUST-020,Corporate,Phoenix,West,Office Supplies,Art,Marker Set,5,48.0,0.2,12.92
+ORD-0120,2025-08-21,2025-08-24,Same Day,CUST-038,Home Office,Los Angeles,West,Technology,Accessories,Wireless Mouse,4,85.0,0.15,35.52
+ORD-0121,2025-09-08,2025-09-13,Same Day,CUST-018,Consumer,Chicago,Central,Furniture,Furnishings,Desk Lamp,7,196.0,0.2,77.74
+ORD-0122,2025-05-01,2025-05-04,Standard Class,CUST-044,Corporate,Boston,East,Furniture,Furnishings,Desk Lamp,4,126.0,0.1,42.46
+ORD-0123,2025-03-04,2025-03-08,Standard Class,CUST-043,Consumer,Boston,East,Furniture,Bookcases,Bookshelf,1,162.0,0.1,64.61
+ORD-0124,2025-03-06,2025-03-11,Second Class,CUST-005,Home Office,New York,East,Office Supplies,Art,Marker Set,1,11.4,0.05,5.04
+ORD-0125,2025-01-02,2025-01-05,Second Class,CUST-009,Home Office,Houston,Central,Furniture,Chairs,Office Chair,4,570.0,0.05,146.68
+ORD-0126,2025-03-09,2025-03-10,First Class,CUST-016,Home Office,Chicago,Central,Furniture,Tables,Study Table,2,352.0,0.2,28.19
+ORD-0127,2025-08-04,2025-08-09,Standard Class,CUST-005,Corporate,New York,East,Office Supplies,Paper,Printer Paper,3,22.8,0.05,11.58
+ORD-0128,2025-01-23,2025-01-29,First Class,CUST-030,Home Office,Boston,East,Office Supplies,Storage,Storage Box,2,32.4,0.1,10.21
+ORD-0129,2025-02-25,2025-03-01,Same Day,CUST-005,Consumer,New York,East,Technology,Phones,Smartphone,8,5032.8,0.1,1729.77
+ORD-0130,2025-10-27,2025-11-01,First Class,CUST-025,Home Office,Chicago,Central,Office Supplies,Paper,Printer Paper,2,16.0,0.0,7.35
+ORD-0131,2025-02-20,2025-02-26,Standard Class,CUST-042,Home Office,Seattle,West,Furniture,Bookcases,Bookshelf,8,1224.0,0.15,288.3
+ORD-0132,2025-07-31,2025-08-03,Same Day,CUST-026,Corporate,Houston,Central,Furniture,Bookcases,Bookshelf,7,1134.0,0.1,197.73
+ORD-0133,2025-05-11,2025-05-14,Second Class,CUST-044,Corporate,Los Angeles,West,Furniture,Furnishings,Desk Lamp,6,189.0,0.1,72.84
+ORD-0134,2025-07-10,2025-07-12,Standard Class,CUST-038,Home Office,Los Angeles,West,Technology,Accessories,Wireless Mouse,2,50.0,0.0,20.37
+ORD-0135,2025-08-05,2025-08-11,Standard Class,CUST-019,Home Office,Boston,East,Furniture,Bookcases,Bookshelf,2,324.0,0.1,119.99
+ORD-0136,2025-03-21,2025-03-27,Same Day,CUST-015,Consumer,Boston,East,Furniture,Tables,Study Table,2,374.0,0.15,102.32
+ORD-0137,2025-08-08,2025-08-13,Standard Class,CUST-039,Home Office,Boston,East,Office Supplies,Paper,Printer Paper,2,15.2,0.05,4.97
+ORD-0138,2025-06-08,2025-06-11,First Class,CUST-001,Consumer,Seattle,West,Furniture,Furnishings,Desk Lamp,1,35.0,0.0,16.09
+ORD-0139,2025-01-16,2025-01-17,Second Class,CUST-025,Corporate,Denver,Central,Technology,Accessories,Keyboard,2,90.0,0.0,27.49
+ORD-0140,2025-06-16,2025-06-21,Standard Class,CUST-004,Consumer,Boston,East,Office Supplies,Storage,Storage Box,3,51.3,0.05,21.45
+ORD-0141,2025-08-06,2025-08-10,Same Day,CUST-027,Corporate,New York,East,Technology,Accessories,Keyboard,2,85.5,0.05,31.84
+ORD-0142,2025-09-07,2025-09-12,First Class,CUST-003,Consumer,Los Angeles,West,Furniture,Chairs,Office Chair,6,810.0,0.1,372.07
+ORD-0143,2025-04-19,2025-04-21,First Class,CUST-019,Corporate,New York,East,Office Supplies,Binders,Ring Binder,1,5.0,0.0,2.25
+ORD-0144,2025-03-08,2025-03-12,Second Class,CUST-033,Home Office,New York,East,Technology,Accessories,Wireless Mouse,8,160.0,0.2,41.58
+ORD-0145,2025-01-22,2025-01-26,Standard Class,CUST-030,Consumer,Boston,East,Office Supplies,Art,Marker Set,2,21.6,0.1,3.97
+ORD-0146,2025-05-29,2025-05-30,Same Day,CUST-002,Corporate,Denver,Central,Office Supplies,Paper,Printer Paper,7,44.8,0.2,7.77
+ORD-0147,2025-02-24,2025-02-26,Same Day,CUST-038,Corporate,Phoenix,West,Technology,Accessories,Keyboard,6,270.0,0.0,109.59
+ORD-0148,2025-04-24,2025-04-27,Second Class,CUST-005,Home Office,Los Angeles,West,Furniture,Bookcases,Bookshelf,7,1197.0,0.05,319.89
+ORD-0149,2025-03-17,2025-03-19,Standard Class,CUST-010,Corporate,Los Angeles,West,Office Supplies,Art,Marker Set,4,45.6,0.05,18.44
+ORD-0150,2025-09-10,2025-09-14,Same Day,CUST-044,Home Office,Chicago,Central,Furniture,Chairs,Office Chair,3,360.0,0.2,146.31
